@@ -1,10 +1,10 @@
 # Nifty50 Candlestick Chart
 
-![image](https://github.com/ajaykaligatla/Nifty50CandlestickChart/assets/107974712/4f3a9d8b-b7bf-4371-b7d6-50eeea69267c)
-
 This project demonstrates a candlestick chart visualization for the Nifty50 stock data of various companies. 
 
 Each company's candlestick chart is displayed in a separate chart container.
+
+![image](https://github.com/ajaykaligatla/Nifty50CandlestickChart/assets/107974712/4f3a9d8b-b7bf-4371-b7d6-50eeea69267c)
 
 ## Prerequisites 
 1.Node.js installed
