@@ -10,21 +10,21 @@ Each company's candlestick chart is displayed in a separate chart container.
 2.Express.js for serving static files
 
 ## Getting Started
-##### 1.Navigate to the project directory:
+#### 1.Navigate to the project directory:
 
 cd nifty50-candlestick-chart
 
-##### 2.Install the required dependencies:
+#### 2.Install the required dependencies:
 
 npm install
 
 ## Running the Application
 
-##### 1.Start the Express server:
+#### 1.Start the Express server:
 
 node server.js
 
-##### 2.Live Server:
+#### 2.Live Server:
 
    *Open VS Code and install the "Live Server" extension.
    
